@@ -1,2 +1,2 @@
-# our-first-gh-repo
+# Our First GitHub Repo
 I am creating my very first GitHub repository
